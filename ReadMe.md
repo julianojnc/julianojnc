@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cursando o Primeiro Período em ADS;<br>A Procura de Estágio na Área de Estudo;<br>Curso Técnico Completo em Informática;
+Cursando Analise e Desenvolvimento de Sistemas;<br>A Procura de Estágio na Área de Estudo;<br>Curso Técnico Completo em Informática;
 
 
 # 💻 Tech Stack:
