@@ -10,21 +10,23 @@
 
 # 💻 CEET Vasco Coutinho:
 <p align="">
-    <img src="https://skillicons.dev/icons?i=java,mysql,cs,html,css,bootstrap,php,javascript,dart,flutter,firebase,python,opencv" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,cs,html,css,bootstrap,php,js,dart,flutter,firebase,py,opencv" />
 </p>
 
 # 💻 Multivix:
 <p align="">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,html,css" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,git,github" />
 </p>
 
 # 💻 Alura:
 <p align="">
-    <img src="https://skillicons.dev/icons?i=dart,html,css,bootstrap,javascript,nodejs,react,css" />
+    <img src="https://skillicons.dev/icons?i=dart,html,css,bootstrap,js,nodejs,react,cs,git,github" />
 </p>
 
 # 💻 Demais Tecnologias:
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<p align="">
+    <img src="https://skillicons.dev/icons?i=spring,postgres,postman,figma,supabase,docker,vscode,vercel" />
+</p>
 
 # 📊 Status Github:
 ![](https://github-readme-stats.vercel.app/api?username=julianojnc&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
