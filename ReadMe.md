@@ -13,9 +13,8 @@
     <img src="https://skillicons.dev/icons?i=java,mysql,cs,html,css,bootstrap,php,js,dart,flutter,firebase,py,opencv" />
 </p>
 
-# 💻 Multivix:
+# <img style="width:40px; height:40px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOBaj8E3a_N8keUQ29HzIyNY8pXP0BPlscg&s"/> Multivix:
 <p align="center">
-  <img style="width:24px; height:24px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOBaj8E3a_N8keUQ29HzIyNY8pXP0BPlscg&s"/>
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,git,github" />
 </p>
 
