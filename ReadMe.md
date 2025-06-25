@@ -9,10 +9,8 @@
 # 💻 Tecnologias:
 
 # 💻 CEET Vasco Coutinho:
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="">
     <img src="https://skillicons.dev/icons?i=java,mysql,cs,html,css,bootstrap,php,javascript,dart,flutter,firebase,python,opencv" />
-  </a>
 </p>
 
 # 💻 Multivix:
