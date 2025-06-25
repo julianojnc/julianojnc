@@ -15,7 +15,7 @@
 
 # 💻 Multivix:
 <p align="center">
-  <img styles="width:20px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOBaj8E3a_N8keUQ29HzIyNY8pXP0BPlscg&s"/>
+  <img class="icon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOBaj8E3a_N8keUQ29HzIyNY8pXP0BPlscg&s"/>
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,git,github" />
 </p>
 
@@ -34,6 +34,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=julianojnc&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=julianojnc&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<style>
+  .icon {
+    width: 20px;
+  }
+  code {
+    font-weight: bold;
+  }
+</style>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
