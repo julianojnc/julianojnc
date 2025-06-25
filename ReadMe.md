@@ -8,7 +8,7 @@
 
 ### Redes:
 [![VitrineDev](https://img.shields.io/badge)]([https://linkedin.com/in/www.linkedin.com/in/laura-siqueira-658a4722b](https://cursos.alura.com.br/vitrinedev/jncjuliano)) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/laura-siqueira-658a4722b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-nascimento-726a27211/) 
 
 # 💻 Tecnologias:
 
