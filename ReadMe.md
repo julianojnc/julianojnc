@@ -1,7 +1,7 @@
 # 💫 About Me:
 <ul>
-  <li>Cursando o Último Período em Analise e Desenvolvimento de Sistemas - Multivix;</li>
-  <li>Curso Técnico Completo em Informática - CEET Vasco Coutinho;</li>
+  <li>Cursando o Último Período em Análise e Desenvolvimento de Sistemas - <b>Multivix</b></li>
+  <li>Curso Técnico Completo em Informática - <b>CEET Vasco Coutinho</b></li>
   <li>A Procura da minha primeira experiência na Área de Estudo;</li>
 </ul>
 
