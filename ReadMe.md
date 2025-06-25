@@ -15,7 +15,7 @@
 
 # 💻 Multivix:
 <p align="center">
-  <img class="icon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOBaj8E3a_N8keUQ29HzIyNY8pXP0BPlscg&s"/>
+  <img style="width:24px; height:24px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOBaj8E3a_N8keUQ29HzIyNY8pXP0BPlscg&s"/>
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,git,github" />
 </p>
 
