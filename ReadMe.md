@@ -8,7 +8,7 @@
 
 # 💻 Tecnologias:
 
-### <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+### <div style="width:50px; display:flex; align-items:center; justify-content:center; gap:10px;">
   <img style="width:40px; height:40px;" src="https://secti.es.gov.br/Media/Secti/_Profiles/c4d8c6e6/745285d0/vasco-1.png?v=638102720633291030"/> 
   <p>CEET Vasco Coutinho:</p>
 </div>
