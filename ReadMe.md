@@ -6,6 +6,10 @@
   <li>A Procura da minha primeira experiência na Área de Estudo;</li>
 </ul>
 
+### Redes:
+[![VitrineDev](https://img.shields.io/badge)]([https://linkedin.com/in/www.linkedin.com/in/laura-siqueira-658a4722b](https://cursos.alura.com.br/vitrinedev/jncjuliano)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/laura-siqueira-658a4722b) 
+
 # 💻 Tecnologias:
 
 ### <img style="width:40px; height:40px;" src="https://secti.es.gov.br/Media/Secti/_Profiles/c4d8c6e6/745285d0/vasco-1.png?v=638102720633291030"/> CEET Vasco Coutinho:
