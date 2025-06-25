@@ -7,7 +7,7 @@
 </ul>
 
 ### Redes:
-[![VitrineDev](https://img.shields.io/badge)]((https://cursos.alura.com.br/vitrinedev/jncjuliano)) 
+[![Static Badge](https://img.shields.io/badge/VitrineDev-rgb(11%2C%2036%2C%2053))](https://cursos.alura.com.br/vitrinedev/jncjuliano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-nascimento-726a27211/) 
 
 # 💻 Tecnologias:
