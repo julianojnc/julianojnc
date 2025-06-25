@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,git,github" />
 </p>
 
-# 💻 Alura:
+# <img style="width:40px; height:40px;" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOBaj8E3a_N8keUQ29HzIyNY8pXP0BPlscg&s](https://play-lh.googleusercontent.com/yDjaHCaOn_O89vnY7eOKH6ElEBtJrmN2CSI4yhiP1_GVC2zrxXWSFGxO0lt9-CU0mV4)"/> Alura:
 <p align="">
     <img src="https://skillicons.dev/icons?i=dart,html,css,bootstrap,js,nodejs,react,cs,git,github" />
 </p>
