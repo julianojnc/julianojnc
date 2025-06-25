@@ -1,5 +1,9 @@
 # 💫 About Me:
-Cursando Analise e Desenvolvimento de Sistemas;<br>A Procura de Estágio na Área de Estudo;<br>Curso Técnico Completo em Informática;
+<ul>
+  <li>Cursando o Último Período em Analise e Desenvolvimento de Sistemas - Multivix;</li>
+  <li>Curso Técnico Completo em Informática - CEET Vasco Coutinho;</li>
+  <li>A Procura da minha primeira experiência na Área de Estudo;</li>
+</ul>
 
 
 # 💻 Tech Stack:
@@ -10,6 +14,5 @@ Cursando Analise e Desenvolvimento de Sistemas;<br>A Procura de Estágio na Áre
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=julianojnc&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=julianojnc&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
