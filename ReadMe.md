@@ -9,7 +9,7 @@
 # 💻 Tecnologias:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,docker,c#,javascript,dart,flutter,firebase" />
+    <img src="https://skillicons.dev/icons?i=git,java,docker,cs,html,css,javascript,dart,flutter,firebase,figma" />
   </a>
 </p>
 
