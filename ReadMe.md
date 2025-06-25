@@ -8,8 +8,7 @@
 
 # 💻 Tecnologias:
 
-### <div style="display:flex; align-items:center; justify-content:center; gap:10px;"><img style="width:40px; height:40px;" src="https://secti.es.gov.br/Media/Secti/_Profiles/c4d8c6e6/745285d0/vasco-1.png?v=638102720633291030"/> <p>CEET Vasco Coutinho:</p></div>
-
+### <img style="width:40px; height:40px;" src="https://secti.es.gov.br/Media/Secti/_Profiles/c4d8c6e6/745285d0/vasco-1.png?v=638102720633291030"/> CEET Vasco Coutinho:
 <p align="">
   <img src="https://skillicons.dev/icons?i=java,mysql,cs,html,css,bootstrap,php,js,dart,flutter,firebase,py,opencv" />
 </p>
@@ -37,13 +36,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=julianojnc&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=julianojnc&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<style>
-  .icon {
-    width: 20px;
-  }
-  code {
-    font-weight: bold;
-  }
-</style>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
