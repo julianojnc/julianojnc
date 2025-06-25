@@ -8,7 +8,9 @@
 
 # 💻 Tecnologias:
 
-### <img style="width:40px; height:40px;" src="https://secti.es.gov.br/Media/Secti/_Profiles/c4d8c6e6/745285d0/vasco-1.png?v=638102720633291030"/> <p style="height:40px; display:flex; justfy-content:center">CEET Vasco Coutinho:</p>
+### <div style="display:flex; justfy-content:center">
+  <img style="width:40px; height:40px;" src="https://secti.es.gov.br/Media/Secti/_Profiles/c4d8c6e6/745285d0/vasco-1.png?      v=638102720633291030"/> <p style="height:40px;">CEET Vasco Coutinho:</p>
+</div>
 <p align="">
     <img src="https://skillicons.dev/icons?i=java,mysql,cs,html,css,bootstrap,php,js,dart,flutter,firebase,py,opencv" />
 </p>
