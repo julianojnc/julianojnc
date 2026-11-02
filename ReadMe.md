@@ -1,9 +1,8 @@
 # 💫 Sobre mim:
 <ul>
-  <li>Análise e Desenvolvimento de Sistemas Completo - <b>Multivix</b></li>
-  <li>Curso Técnico Completo em Informática - <b>CEET Vasco Coutinho</b></li>
-  <li>Cursando Programação - <b>Alura</b></li>
-  <li>A Procura da minha primeira experiência na Área de Estudo;</li>
+  <li>Análise e Desenvolvimento de Sistemas - <b>Multivix</b> - Completo</li>
+  <li>Curso Técnico em Informática - <b>CEET Vasco Coutinho</b> - Completo</li>
+  <li>Programação - <b>Alura</b></li>
 </ul>
 
 ### Redes:
